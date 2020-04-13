@@ -1,0 +1,5 @@
+.ide
+.meta
+target
+*.jar
+*.war
