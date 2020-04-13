@@ -13,5 +13,10 @@ class app{
 
 	s.o.p("abc");
 
+        pv myMethod(){
+		s.o.p("my method");
+	}
+
+
 }
 
