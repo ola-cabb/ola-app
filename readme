@@ -1,4 +1,4 @@
-first update
-2nd update from portal
-3rd change
-4th change
+ola app build and deployment steps
+1. maven steps
+2. docker build steps
+3. k8s deployment steps
