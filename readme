@@ -3,4 +3,7 @@ ola app build and deployment steps
 2. docker build steps
 3. k8s deployment steps
 4. git hub actions
+<<<<<<< HEAD
 5. execute actions
+=======
+>>>>>>> 7d52ba90277f460a83d1b276c97ecf2f3ad14a5e
